@@ -1,0 +1,9 @@
+# Основные библиотеки для RLgym
+stable-baselines3
+# PyTorch для обучения нейронной сетиtorch
+torchvision
+# ROS 2 и связанные зависимости (через ROS 2 Python API)rclpy
+geometry-msgssensor-msgs
+visualization-msgs
+# Для обработки данных от LIDARnumpy
+scipy
